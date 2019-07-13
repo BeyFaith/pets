@@ -17,5 +17,5 @@ This is simply HTML and used the latest(HTML5).
 ## Support and contact details
 For any info or queries please reach out to me at fryumugabe@gmail.com or (+250) 782276440
 ### License
-*{GPL.}*
-Copyright (c) {2019} **Bey Faith**
+*GPL.*
+Copyright (c) 2019 **Bey Faith**
